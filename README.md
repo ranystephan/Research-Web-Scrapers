@@ -13,8 +13,7 @@ This repository contains a collection of web scrapers for use in research projec
 
 The following scrapers are included in this repository:
 
-- `scraper1`: Scrapes images, descriptions, and AI-generated alternatives from a single Instagram account
-- `scraper2`: Scrapes data from multiple Instagram accounts based on a list of usernames
+- `scraper1`: Scrapes images, descriptions, and AI-generated alts for nstagram accounts
 
 ## Usage
 
